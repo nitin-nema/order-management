@@ -1,4 +1,4 @@
 Order ID : ORD-101
 Customer: Raghu
-Status: Completed
+Current Status: Completed
 Delivery: Done
